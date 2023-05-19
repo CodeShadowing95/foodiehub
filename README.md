@@ -1,8 +1,8 @@
-# Welcome to foodiehub 👋
+# Hi there and Welcome to FoodieHub 👋
 
 ![Version](https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000)
 
-> Responsive restaurant website
+> A responsive restaurant website with modern UI and UX 
 
 ## 🏠 [Homepage](https://github.com/CodeShadowing95/foodiehub)
 
