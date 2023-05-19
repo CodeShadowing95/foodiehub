@@ -2,7 +2,7 @@
 
 ![Version](https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000)
 
-> A responsive restaurant website with modern UI and UX 
+> A responsive restaurant website with modern UI and UX
 
 ## 🏠 [Homepage](https://github.com/CodeShadowing95/foodiehub)
 
