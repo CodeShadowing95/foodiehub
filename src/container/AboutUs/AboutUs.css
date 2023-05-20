@@ -31,6 +31,10 @@
   text-align: right;
 }
 
+.app__aboutus-content_about img {
+  transform: rotate(-180deg);
+}
+
 .app__aboutus-content_knife {
   margin: 2rem 4rem;
 }
